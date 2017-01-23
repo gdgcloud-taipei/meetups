@@ -100,6 +100,9 @@ Impala 是 Cloudera 所開發用於 Hadoop 的 SQL Query 工具，於 2016 年�
 
 ### 17:00 - 17:30 Networking & Wellcome Lightly Talk again~
 
-## 活動留影
+## 其他
 
-* [Google Photo](https://photos.google.com/share/AF1QipOTuBOP6ctVcEQv1HHy_VsMS-58NWU_tZtPaFmojQkWUKVJnrK5xmhjy3hduv-x6A?key=T0E4VFNFTDNlaDZzck9CMkkyaWZRQXNCM2h2c0Fn)
+* [活動留影](https://photos.google.com/share/AF1QipOTuBOP6ctVcEQv1HHy_VsMS-58NWU_tZtPaFmojQkWUKVJnrK5xmhjy3hduv-x6A?key=T0E4VFNFTDNlaDZzck9CMkkyaWZRQXNCM2h2c0Fn)
+* 贊助單位
+	* 感謝Google贊助場地(特別感謝Axa協助申請)
+	* 感謝MiTAC提供美味的Pizza
