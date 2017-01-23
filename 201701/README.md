@@ -1,4 +1,4 @@
-# 201701 Meetup
+# 201701 GCPUG.TW with Hadoop Taiwan合辦Meetup
 
 ## 本次活動介紹
 本次活動為 Taiwan Hadoop User Group 與 Google Cloud Platform User Group (GCPUG) 一起舉辦，透過社群間的合作，讓講題更多樣化發展，大家在了解 Hadoop Ecosystem 的當下，也可以一起深入了解在 Google Cloud Platform 上的各項 Big Data 與 Computing Service 唷～
@@ -24,7 +24,7 @@ http://gcpugtw.kktix.cc/events/meetup201701
 
 ## 地點
 
-台北101 - Google辦公室 (確認中，暫定）
+台北101 - Google辦公室 
 
 ## 本次活動議程
 
