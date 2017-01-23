@@ -64,6 +64,7 @@ Hadoop is becoming the foundation of many data architectures, and many new use c
 In this talk, I am going to highlight a few major features that will be shipped with Hadoop 3. In particular, a new storage architecture that reduces storage cost, a new architecture that scales compute better, improvement that makes Hadoop applications easier to develop, among others. Finally, I will also mention some new concepts that may one day be incorporated into Hadoop 4.
 
 * 直播URL: http://youtu.be/ZlG_xidzzL4
+* PPT: (Hadoop3_2017_Hadoop_Taiwan_Workshop.pdf)[Hadoop3_2017_Hadoop_Taiwan_Workshop.pdf]
 
 ### 14:45 - 15:45 Hadoop Compatible File System (HCFS) 初探
 
