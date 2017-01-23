@@ -97,6 +97,7 @@ Impala 是 Cloudera 所開發用於 Hadoop 的 SQL Query 工具，於 2016 年�
 這個場次將分享在每日以 TB 等級增加資料量的環境中，如何用 Impala 實做 data extract, data transfer and data load。
 
 * 直播URL: https://m.youtube.com/watch?v=U0o6yLYdnjw&feature=youtu.be
+* PPT: http://www.slideshare.net/Athemaster/etl-with-apache-impala-by-athemaster-71282134
 
 ### 17:00 - 17:30 Networking & Wellcome Lightly Talk again~
 
