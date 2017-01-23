@@ -22,6 +22,9 @@ Randy Huang, Data team leader of VMfive
 Abstract:
 This is a real case from VMfive to shifting ELK architecture from AWS. Currently GCP Data Pipeline provide us more efficiency and stable environment for running our service. 
 
+* 直播URL: http://youtu.be/bH9e__8bT5k
+* PPT: http://www.slideshare.net/randyviola/the-journey-of-moving-from-aws-elk-to-gcp-data-pipeline
+
 
 ### 10:45 - 11:45 Google Cloud Computing compares - GCE, GKE and GAE
 
@@ -30,6 +33,10 @@ Simon Su, Co-organizer of GCPUG.TW
 
 Abstract:
 Google provide different kinds of computing service, like: Google Computing Engine, Google Container Engine, Google App Engine. And I want to use a sample to let you know what is the different in these kinds of service. Maybe next time, you will have a batter way to deploy your service in Google Cloud!
+
+* 直播URL: http://youtu.be/dsJLqQ-zets
+* PPT: http://www.slideshare.net/peihsinsu/google-cloud-computing-compares-gce-gae-and-gke
+* code: https://github.com/peihsinsu/gcpug-meetup-201701
 
 ### 11:45 - 13:30 Lunch & Welcome Lightly Talk
 
@@ -41,6 +48,8 @@ Wei-Chiu Chuang, Apache Hadoop Committer/ Software Engineer, Cloudera
 Abstract: 
 Hadoop is becoming the foundation of many data architectures, and many new use cases are flocking to the Hadoop ecosystem. With new opportunities comes new challenges, and Hadoop 3 will be addressing some of these emerging challenges.
 In this talk, I am going to highlight a few major features that will be shipped with Hadoop 3. In particular, a new storage architecture that reduces storage cost, a new architecture that scales compute better, improvement that makes Hadoop applications easier to develop, among others. Finally, I will also mention some new concepts that may one day be incorporated into Hadoop 4.
+
+* 直播URL: http://youtu.be/ZlG_xidzzL4
 
 ### 14:45 - 15:45 Hadoop Compatible File System (HCFS) 初探
 
@@ -60,6 +69,8 @@ PS. 若準備來得及，會追加 Google Cloud Storage Connector for Spark and 
 [4] https://github.com/ceph/cephfs-hadoop
 [5] https://cloud.google.com/.../google-cloud-storage-connector
 
+* 直播URL: https://youtu.be/p1SKNSkZGPc
+
 ### 16:00 - 17:00 Apache Impala 在 ETL 的實作案例
 
 Speaker:
@@ -70,6 +81,8 @@ Abstract:
 
 Impala 是 Cloudera 所開發用於 Hadoop 的 SQL Query 工具，於 2016 年捐給 Apache 軟體基金會。用途與 Hive 相近，但是基於快速回應查詢結果的特性，非常適合用來作交互式的資料挖掘與調校分析式查詢。
 這個場次將分享在每日以 TB 等級增加資料量的環境中，如何用 Impala 實做 data extract, data transfer and data load。
+
+* 直播URL: https://m.youtube.com/watch?v=U0o6yLYdnjw&feature=youtu.be
 
 ### 17:00 - 17:30 Networking & Wellcome Lightly Talk again~
 
