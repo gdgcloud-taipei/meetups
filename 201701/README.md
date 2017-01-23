@@ -1,5 +1,19 @@
 # 201701 Meetup
 
+## 本次活動介紹
+本次活動為 Taiwan Hadoop User Group 與 Google Cloud Platform User Group (GCPUG) 一起舉辦，透過社群間的合作，讓講題更多樣化發展，大家在了解 Hadoop Ecosystem 的當下，也可以一起深入了解在 Google Cloud Platform 上的各項 Big Data 與 Computing Service 唷～
+
+ 
+### Taiwan Hadoop User Group
+我們是台灣的 Hadoop Ecosystem User Group，透過分享的力量，讓 Hadoop 帶領台灣的大資料環境向上成長，並且透過大家的分享與交流，讓知識交流無國界，歡迎對 Hadoop Ecosystem 的朋友們可以一起加入分享！
+
+臉書粉絲團：https://fb.com/groups/hadoop.tw/
+
+### Google Cloud Platform User Group
+大家好，我們是 Google Cloud Platform User Group (GCPUG) 台灣分支，我們是一個Google Cloud Platform 相關技術的民間社群，成立的宗旨在分享與交換 Google Cloud Platform 上的一些技術與使用經驗。歡迎對 Google Cloud Platform 有興趣的朋友們可以共襄盛舉。
+
+臉書粉絲團：https://fb.com/groups/GCPUG.TW/
+
 ## 報名頁面
 
 http://gcpugtw.kktix.cc/events/meetup201701
@@ -86,4 +100,6 @@ Impala 是 Cloudera 所開發用於 Hadoop 的 SQL Query 工具，於 2016 年�
 
 ### 17:00 - 17:30 Networking & Wellcome Lightly Talk again~
 
+## 活動留影
 
+* [Google Photo](https://photos.google.com/share/AF1QipOTuBOP6ctVcEQv1HHy_VsMS-58NWU_tZtPaFmojQkWUKVJnrK5xmhjy3hduv-x6A?key=T0E4VFNFTDNlaDZzck9CMkkyaWZRQXNCM2h2c0Fn)
