@@ -8,9 +8,9 @@
  
 # 本次活動議程
 
-## 19:00 - 19:30 報名與集合 (一樓大廳，圓形接待台旁集合)
+### 19:00 - 19:30 報名與集合 (一樓大廳，圓形接待台旁集合)
 
-## 19:30 - 20:10 AI超越人類的追求神乎其技之路 / 利用Tensorflow 與 深度強化學習（Deep reinforcement learning, DRL） 讓AI從無到有學習玩遊戲​
+### 19:30 - 20:10 AI超越人類的追求神乎其技之路 / 利用Tensorflow 與 深度強化學習（Deep reinforcement learning, DRL） 讓AI從無到有學習玩遊戲​
 Speaker: Tommy Shiao(蕭柏堂) 
 目前於 Astra 擔任雲端服務架構設計與演算法開發工程師，
 目前正在執行NTT Camera Cloud Service專案，並致力於探索從電腦視覺領域應用之中逐步AI化、商業化的可能性。業餘時間則是對於數據分析與演算法有濃厚興趣，在AI尚未火紅前，已有近10年相關經驗，並應用於股市數據量化分析與自動化程式交易
@@ -23,9 +23,9 @@ AI在2015年後已有重大進展，本演講主題會從機器學習開始，
 並利用Tensorflow以不到200行的代碼，將深度強化學習實作在讓AI從無到有學習玩遊戲
 讓大家深刻體會AI是如何自我學習，追求神乎其技直到超越人類的過程。
 
-## 20:10 - 20:20 Break & Networking
+### 20:10 - 20:20 Break & Networking
  
-## 20:20 - 21:00 初探機器學習 - 以 tensorflow 為例
+### 20:20 - 21:00 初探機器學習 - 以 tensorflow 為例
 Speaker: 顧家祈 (kuchitown)
 結合 fintech 跟 人工智慧，hiHedge 創辦人，獲選參加新加坡 startupbootcamp 加速器及 fintech festival 之 hackcelerator ，希望結合 fintech 跟 人工智慧，帶給金融產業破壞式創新
 
@@ -39,7 +39,7 @@ Abstract:
 2. 初探機器學習：從92%到99%正確率
 3. 讓 AI 寫出莎士比亞
 
-## 21:00 - 21:30 Light Talk (Ming / DevOps Taiwan organizer - 玩 Ethereum Blockchain on Google Cloud​)
+### 21:00 - 21:30 Light Talk (Ming / DevOps Taiwan organizer - 玩 Ethereum Blockchain on Google Cloud​)
 
 
 
