@@ -60,3 +60,7 @@ Video:http://youtu.be/K5IUzX-aD_k
 ## Ming
 PPT: http://slides.com/ming-derwang/taiwan-devops-45-46#/ 
 Video:http://youtu.be/K5IUzX-aD_k
+
+# 其他筆記
+
+* Mark提供：https://docs.google.com/document/d/1dSVxpYvtS9A9lDvlNGmd8Mg_TdqgcU-gu_qk9V9Ip64/edit
